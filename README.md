@@ -13,7 +13,7 @@ Here is a day-by-day summary of the intensive course.
 | **5** | [Prototype to Production](https://www.kaggle.com/whitepaper-prototype-to-production) | [Day 5 Podcast](https://www.youtube.com/watch?v=8Wyt9l7ge-g) | [Day 5a - Agent2Agent Communication](https://www.kaggle.com/code/kaggle5daysofai/day-5a-agent2agent-communication) <br> [Day 5b - Agent Deployment](https://www.kaggle.com/code/kaggle5daysofai/day-5b-agent-deployment) | [Day 5 Livestream](https://www.youtube.com/live/4XjPh5or0ws) |
 
 
-YouTube Playlist of livestream
+[YouTube Playlist of livestream] (https://www.youtube.com/playlist?list=PLqFaTIg4myu9r7uRoNfbJhHUbLp-1t1YE)
 
 
 🚀 Key Topics Covered
