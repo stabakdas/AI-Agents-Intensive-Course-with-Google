@@ -1,8 +1,11 @@
 # AI-Agents-Intensive-Course-with-Google
 This repository contains a summary, notes from the 5-Day AI Agents Intensive Course by Google and Kaggle. This course (held in November 2025) provided a deep dive into the fundamentals of building, evaluating, and deploying the next generation of intelligent, autonomous AI systems.
 
-Here is a day-by-day summary of the intensive course.
+Course RSVP Page on [Kaggle](https://rsvp.withgoogle.com/events/google-ai-agents-intensive_2025/home)
+Course Content [Page](https://www.kaggle.com/learn-guide/5-day-agents)
+Course [Discord](https://discord.com/channels/1101210829807956100/1305239683156017202) Server
 
+Here is a day-by-day summary of the intensive course.
 
 | Day | WhitePaper | Summary Podcast | Codelab | Youtube Livestream |
 |---|---|---|---|---|
