@@ -28,7 +28,7 @@ How to [use](https://youtu.be/BPQDZLPtgDc?si=JptLc154gpcPYqtv) Kaggle Notebook
 
 Error Handling: [Handling]([url](https://docs.cloud.google.com/vertex-ai/generative-ai/docs/provisioned-throughput/error-code-429#troubleshoot-dynamic-shared-quota)) "Error Coder 429: Resource Exhausted" 
 
-##📚 Daily Breakdown
+##Daily Breakdown📚 
 
 Here's a brief overview of the topics covered each day:
 
@@ -47,7 +47,7 @@ A crucial part of building reliable systems. This session taught methods for eva
 Day 5: Prototype to Production
 The final step in the journey. This day bridged the gap between a working demo and a scalable, real-world application. It covered deployment strategies, best practices for production-ready agents, and the Agent2Agent (A2A) Protocol for building sophisticated multi-agent systems.
 
-##🚀 Key Topics Covered
+##Key Topics Covered🚀 
 
 This course provided a comprehensive overview of the AI agent stack, including:
 
