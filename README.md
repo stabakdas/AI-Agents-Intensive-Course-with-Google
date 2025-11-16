@@ -10,7 +10,7 @@ Information on the 5-Day AI Agents Intensive Course with Google, before registra
 ## Discord
 Course [Discord](https://discord.com/invite/kaggle) Server
 
-Here is a day-by-day summary of the intensive course.
+## Here is a day-by-day summary of the intensive course.
 
 | Day | WhitePaper | Summary Podcast | Codelab | Youtube Livestream |
 |---|---|---|---|---|
