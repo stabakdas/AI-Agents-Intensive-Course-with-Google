@@ -5,7 +5,7 @@ Course RSVP Page on [Kaggle](https://rsvp.withgoogle.com/events/google-ai-agents
 
 Course Content [Page](https://www.kaggle.com/learn-guide/5-day-agents)
 
-Course [Discord](https://discord.com/channels/1101210829807956100/1305239683156017202) Server
+Course [Discord](https://discord.com/invite/kaggle) Server
 
 Here is a day-by-day summary of the intensive course.
 
