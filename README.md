@@ -16,6 +16,11 @@ Youtube Livestream
 | Row 1, Cell 1 | Row 1, Cell 2 |
 | Row 2, Cell 1 | Row 2, Cell 2 |
 
+| Day | WhitePaper | Summary Podcast | Codelab | Youtube Livestream |
+|---|---|---|---|---|
+| **1** | [Introduction to Agents](https) | [Day 1 Podcast](https) | [Day 1a - From Prompt to Action](https) <br> [Day 1b - Agent Architectures](https) | [Day 1 Livestream](https) |
+| **2** | [Agent Tools & Interoperability with MCP](https) | [Day 2 Podcast](https) | [Day 2a - Agent Tools](https) <br> [Day 2b - Agent Tools Best Practices](https) | [Day 2 Livestream](https) |
+| **3** | [Context Engineering: Sessions & Memory](https) | [Day 3 Podcast](https) | [Day 3a - Agent Sessions](https) <br> [Day 3b - Agent Memory](https) | [Day 3 Livestream](https) |
 
 YouTube Playlist of livestream
 
