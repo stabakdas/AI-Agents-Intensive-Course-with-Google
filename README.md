@@ -23,6 +23,29 @@ Course [Discord](https://discord.com/invite/kaggle) Server
 
 [YouTube Playlist of livestream](https://www.youtube.com/playlist?list=PLqFaTIg4myu9r7uRoNfbJhHUbLp-1t1YE)
 
+#Supplementary Resources
+How to [use](https://youtu.be/BPQDZLPtgDc?si=JptLc154gpcPYqtv) Kaggle Notebook
+
+Error Handling: [Handling]([url](https://docs.cloud.google.com/vertex-ai/generative-ai/docs/provisioned-throughput/error-code-429#troubleshoot-dynamic-shared-quota)) "Error Coder 429: Resource Exhausted" 
+
+📚 Daily Breakdown
+
+Here's a brief overview of the topics covered each day:
+
+Day 1: Introduction to Agents
+This day covered the fundamental concepts of AI agents. It explained what they are, how they differ from traditional LLM applications, and explored the basic "Think-Act-Observe" reasoning loops that form their core architecture.
+
+Day 2: Agent Tools & Interoperability with MCP
+This session focused on giving agents real-world capabilities. It demonstrated how agents can "take action" by using tools (like external APIs) and how the Model Context Protocol (MCP) helps them discover and interact with these tools effectively.
+
+Day 3: Context Engineering: Sessions & Memory
+This day was all about making agents intelligent over time. It covered techniques for implementing short-term (session) and long-term memory, allowing agents to maintain context, learn from past interactions, and handle complex, multi-turn tasks.
+
+Day 4: Agent Quality
+A crucial part of building reliable systems. This session taught methods for evaluating agent performance, ensuring they are safe, effective, and reliable. It covered the importance of observability, logging, and tracing to debug and improve agent behavior.
+
+Day 5: Prototype to Production
+The final step in the journey. This day bridged the gap between a working demo and a scalable, real-world application. It covered deployment strategies, best practices for production-ready agents, and the Agent2Agent (A2A) Protocol for building sophisticated multi-agent systems.
 
 🚀 Key Topics Covered
 
