@@ -3,9 +3,9 @@ This repository contains a summary of the 5-Day AI Agents Intensive Course by Go
 
 # Kaggle Page on 
 
-[RSVP](https://rsvp.withgoogle.com/events/google-ai-agents-intensive_2025/home)
+Information on the 5-Day AI Agents Intensive Course with Google [RSVP](https://rsvp.withgoogle.com/events/google-ai-agents-intensive_2025/home)
 
-[Course Content](https://www.kaggle.com/learn-guide/5-day-agents)
+[Course Content](https://www.kaggle.com/learn-guide/5-day-agents) of the 5-Day AI Agents Intensive Course with Google
 
 # Discord
 Course [Discord](https://discord.com/invite/kaggle) Server
