@@ -62,6 +62,6 @@ Memory: Giving agents context and the ability to remember past interactions.
 
 Evaluation: The critical process of ensuring agents are reliable, safe, and effective.
 
-Disclaimer
+## Disclaimer
 
 These are personal notes and summaries created for learning purposes. They are not official materials from Google or Kaggle.
