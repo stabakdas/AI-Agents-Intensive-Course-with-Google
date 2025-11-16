@@ -18,7 +18,7 @@ Youtube Livestream
 
 | Day | WhitePaper | Summary Podcast | Codelab | Youtube Livestream |
 |---|---|---|---|---|
-| **1** | [Introduction to Agents]([https](https://www.kaggle.com/whitepaper-introduction-to-agents)) | [Day 1 Podcast](https) | [Day 1a - From Prompt to Action](https) <br> [Day 1b - Agent Architectures](https) | [Day 1 Livestream](https) |
+| **1** | [Introduction to Agents](https://www.kaggle.com/whitepaper-introduction-to-agents)) | [Day 1 Podcast](https) | [Day 1a - From Prompt to Action](https) <br> [Day 1b - Agent Architectures](https) | [Day 1 Livestream](https) |
 | **2** | [Agent Tools & Interoperability with MCP](https) | [Day 2 Podcast](https) | [Day 2a - Agent Tools](https) <br> [Day 2b - Agent Tools Best Practices](https) | [Day 2 Livestream](https) |
 | **3** | [Context Engineering: Sessions & Memory](https) | [Day 3 Podcast](https) | [Day 3a - Agent Sessions](https) <br> [Day 3b - Agent Memory](https) | [Day 3 Livestream](https) |
 
