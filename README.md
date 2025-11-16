@@ -23,10 +23,11 @@ This course is highly engaged with the community using the [Discord](https://dis
 
 [YouTube Playlist of livestream](https://www.youtube.com/playlist?list=PLqFaTIg4myu9r7uRoNfbJhHUbLp-1t1YE)
 
-##Supplementary Resources
+## Supplementary Resources
+
 How to [use](https://youtu.be/BPQDZLPtgDc?si=JptLc154gpcPYqtv) Kaggle Notebook
 
-Error Handling: [Handling]([url](https://docs.cloud.google.com/vertex-ai/generative-ai/docs/provisioned-throughput/error-code-429#troubleshoot-dynamic-shared-quota)) "Error Coder 429: Resource Exhausted" 
+Error Handling: [Handling]((https://docs.cloud.google.com/vertex-ai/generative-ai/docs/provisioned-throughput/error-code-429#troubleshoot-dynamic-shared-quota)) "Error Coder 429: Resource Exhausted" 
 
 ## 📚 Daily Breakdown
 
