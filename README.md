@@ -6,41 +6,10 @@ summary_table  Course Summary
 Here is a day-by-day summary of the intensive course.
 
 Summary Table
-Day
-WhitePaper
-Summery Podcast
-Codelab
-Youtube Livestream
-1
-Introduction to Agents
-Day 1 Podcast
-Day 1a - From Prompt to Action
-Day 1b - Agent Architectures
-Day 1 Livestream
-2
-Agent Tools & Interoperability with MCP
-Day 2 Podcast
-Day 2a - Agent Tools
-Day 2b - Agent Tools Best Practices
-Day 2 Livestream
-3
-Context Engineering: Sessions & Memory
-Day 3 Podcast
-Day 3a - Agent Sessions
-Day 3b - Agent Memory
-Day 3 Livestream
-4
-Agent Quality
-Day 4 Podcast
-Day 4a - Agent Observability
-Day 4b - Agent Evaluation
-Day 4 Livestream
-5
-Prototype to Production
-Day 5 Podcast
-Day 5a - Agent2Agent Communication
-Day 5b - Agent Deployment
-Day 5 Livestream
+| Column 1 | Column 2 |
+| -------- | -------- |
+| Row 1, Cell 1 | Row 1, Cell 2 |
+| Row 2, Cell 1 | Row 2, Cell 2 |
 
 
 Youtube Playlist of livestream
