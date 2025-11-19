@@ -20,6 +20,7 @@ This course is highly engaged with the community using the [Discord](https://dis
 | **4** | [Agent Quality](https://www.kaggle.com/whitepaper-agent-quality) | [Day 4 Podcast](https://www.youtube.com/watch?v=LFQRy-Ci-lk) | [Day 4a - Agent Observability](https://www.kaggle.com/code/kaggle5daysofai/day-4a-agent-observability) <br> [Day 4b - Agent Evaluation](https://www.kaggle.com/code/kaggle5daysofai/day-4b-agent-evaluation) | [Day 4 Livestream](https://www.youtube.com/live/JW1Yybfxyr4) |
 | **5** | [Prototype to Production](https://www.kaggle.com/whitepaper-prototype-to-production) | [Day 5 Podcast](https://www.youtube.com/watch?v=8Wyt9l7ge-g) | [Day 5a - Agent2Agent Communication](https://www.kaggle.com/code/kaggle5daysofai/day-5a-agent2agent-communication) <br> [Day 5b - Agent Deployment](https://www.kaggle.com/code/kaggle5daysofai/day-5b-agent-deployment) | [Day 5 Livestream](https://www.youtube.com/live/4XjPh5or0ws) |
 
+Link for the [Capstone Project](https://www.kaggle.com/competitions/agents-intensive-capstone-project)
 
 [YouTube Playlist of livestream](https://www.youtube.com/playlist?list=PLqFaTIg4myu9r7uRoNfbJhHUbLp-1t1YE)
 
