@@ -30,13 +30,15 @@ How to [use](https://youtu.be/BPQDZLPtgDc?si=JptLc154gpcPYqtv) Kaggle Notebook
 
 Error Handling: [Handling: "Error Coder 429: Resource Exhausted"](https://docs.cloud.google.com/vertex-ai/generative-ai/docs/provisioned-throughput/error-code-429#troubleshoot-dynamic-shared-quota)  
 
-**Additional Resources on Day 4**
+**Additional Resources on Day 4: Shared by NVIDIA**
+| Topic | Title | 
+|---|---|
 
-[Writeup: Building GPU-Accelerated Data Science Agents](https://www.kaggle.com/writeups/jiweiliu/gpu-accelerated-data-science-agent)
+| Writeup | [Building GPU-Accelerated Data Science Agents](https://www.kaggle.com/writeups/jiweiliu/gpu-accelerated-data-science-agent)|
 
-[Demo 1 Notebook: GPU-Accelerated Data Science Agent](https://www.kaggle.com/code/jiweiliu/gpu-accelerated-data-science-agent)
+| Notebook 1 | [GPU-Accelerated Data Science Agent](https://www.kaggle.com/code/jiweiliu/gpu-accelerated-data-science-agent)|
 
-[Demo 2 Notebook: Data Science Agent Report Generator](https://www.kaggle.com/code/jiweiliu/data-science-agent-report-generator)
+| Notebook2 | [Data Science Agent Report Generator](https://www.kaggle.com/code/jiweiliu/data-science-agent-report-generator)|
 
 ## 📚 Daily Breakdown
 
